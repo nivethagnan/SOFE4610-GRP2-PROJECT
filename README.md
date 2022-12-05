@@ -14,4 +14,7 @@ This project is aimed to make the process of attendance easier and more efficien
   * [Project Proposal](https://github.com/nivethagnan/SOFE4610-GRP2-PROJECT/blob/main/Reports/SOFE4610U_ProjectProposal_GRP2.pdf)
   * [Project Progress](https://github.com/nivethagnan/SOFE4610-GRP2-PROJECT/blob/main/Reports/SOFE4610U_ProjectProgress_GRP2.pdf)
   * [Project Presentation](https://github.com/nivethagnan/SOFE4610-GRP2-PROJECT/blob/main/Reports/SOFE4610U_ProjectPresentation_GRP2.pdf)
+* [Architecture Design](https://github.com/nivethagnan/SOFE4610-GRP2-PROJECT/tree/main/Architecture%20Design)
+* [Acceptance Tests](https://github.com/nivethagnan/SOFE4610-GRP2-PROJECT/tree/main/Acceptance%20Tests)
+* [Code](https://github.com/nivethagnan/SOFE4610-GRP2-PROJECT/tree/main/Code)
 
