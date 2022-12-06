@@ -5,6 +5,9 @@ For the arduino board we needed to download the MFRC522 Library. The MFRC522 lib
 
 For the nodemcu we needed to downloaded the MQTT library. We first added in all the necessary libraries. After this we entered the Wifi credentials and password with the Adafruit IO username and AIO key that was obtained earlier. Using the setup function, we will begin the serial communication at a 11500 baud rate. Then we will connect our Wi-Fi client to the Adafruit IO server. Inside the void loop function, the ESP board will read the data from the serial and then publish it to the Adafruit IO server. Once the code is compiled and uploaded onto both boards within our serial monitor you will see the respective data once the cards are scanned. 
 
+## Contents
+* [NodeMCU Code](https://github.com/nivethagnan/SOFE4610-GRP2-PROJECT/blob/main/Code/NodeMCU%20ESP-12E.ino)
+* [Arduino Code](https://github.com/nivethagnan/SOFE4610-GRP2-PROJECT/blob/main/Code/arduino%20board.ino)
 
 
 
