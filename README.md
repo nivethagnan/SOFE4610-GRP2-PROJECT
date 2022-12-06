@@ -11,7 +11,7 @@ This project is aimed to make the process of attendance easier and more efficien
 
 ## Table of Contents
 * [Acceptance Tests](https://github.com/nivethagnan/SOFE4610-GRP2-PROJECT/tree/main/Acceptance%20Tests)
-  * [Demo]
+  * [Demo](https://github.com/nivethagnan/SOFE4610-GRP2-PROJECT/blob/main/Acceptance%20Tests/Untitled.mp4)
 * [Architecture Design](https://github.com/nivethagnan/SOFE4610-GRP2-PROJECT/tree/main/Architecture%20Design)
 * [Code](https://github.com/nivethagnan/SOFE4610-GRP2-PROJECT/tree/main/Code)
   * [Arduino Board](https://github.com/nivethagnan/SOFE4610-GRP2-PROJECT/blob/main/Code/arduino%20board.ino)
